@@ -34,7 +34,7 @@ Notes:
 ### Instructions
 
 1. Clone this repository to your Github account. (Please don't fork, just make a new repo with the README.md)
-2. Sign up to OpenWeather API to get yourself an API key. (You may need to wait upto 2 hours for your key to work)
+2. Sign up to OpenWeather API to get yourself an API key. (You may need to wait up to 2 hours for your key to work)
 3. Create your PHP script, commit it and then push it to Github.
 4. Email us a link to your completed code.
 
