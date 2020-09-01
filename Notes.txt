@@ -1,0 +1,36 @@
+How to run it in mac?
+    Open terminal
+
+    cd to folder
+
+    Start php server - php -S 127.0.0.1:8000
+
+    Open browser and enter - http://localhost:8000/file-name.php
+
+    
+
+How did I do it?
+    Notes: 
+        1) In order to display values in metric, I have used in units=metric.
+
+        2) The code is properly formatted with respective comments.
+
+        3) The layout is pretty attractive based on the given timeframe.
+
+        4) CSS is internally added.
+
+        5) For the section 2, I could have used array in order to get the rates of tomorrow, day after tomorrow and overmorrow. However, the data we get is in Json and the format will be same everytime place the api request which is why I have used specific element number for specific dates' temp and general description. 
+
+        In this specific, there is no need to perform extra steps of pushing the data in a seperate array.
+
+        6) Designing could have been better in a real laravel project as I could use advanced designing frameworks like Tailwind CSS but for not it seems alright.
+
+
+
+How long did it take?
+    As we discussed in the meeting, I have been able to finish this task in less than an hour.
+
+
+
+
+Your feedback will be appreciated. Thank you. 
