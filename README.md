@@ -25,7 +25,7 @@ A section with a 3 day weather forecast with the first day starting TOMORROW, ea
 
 Notes:
 * The website should display values in METRIC.
-* The PHP can either be above the HTML or inline, but all code should be easy to read and properly formatted.
+* The PHP can either be above the HTML or inline, but all code should be easy to read, well commented, and properly formatted.
 * The website layout should be clean and styled.
 * Your CSS can be either internal or external.
 * Your HTML and CSS should pass W3 validation.
